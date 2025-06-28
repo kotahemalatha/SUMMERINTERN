@@ -1,3 +1,3 @@
 go to master branch
-# SUMMERINTERN
+# SUMMERINTERN (go to master branch)
 Revolutionizing Liver Care : Predicting Liver Cirrhosis using Advanced Machine Learning Techniques
